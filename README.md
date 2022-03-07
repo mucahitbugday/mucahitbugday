@@ -52,61 +52,6 @@ export default Profile;
 ```
     
 </div>
-
-<!--
-<div align="center">
-    <h2><b>Languages and Tools</b></h2>
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-</div>
-<div align="center">
-    <h2><b>Stats</b></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=kazimanilaydin&row=1&column=5&margin-w=5&margin-h=5&no-bg=true"
-        alt="Stats" />
-    <br />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimanilaydin" alt="Streak Stats" />
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimanilaydin&layout=compact&theme=vue&cache_seconds=1800&langs_count=6"
-        alt="Top Langs" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kazimanilaydin&hide=issues&show_icons=true&theme=vue"
-        alt="Stats" height="180" />
-    <br />
-    <hr />
-</div>-->
 <div align="center">
     <samp> <b>Smile and Code It!</b></samp>
     <br />
