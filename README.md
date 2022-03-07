@@ -53,7 +53,7 @@ export default Profile;
     
 </div>
 
-
+<!--
 <div align="center">
     <h2><b>Languages and Tools</b></h2>
     <img height="32"
@@ -106,7 +106,7 @@ export default Profile;
         alt="Stats" height="180" />
     <br />
     <hr />
-</div>
+</div>-->
 <div align="center">
     <samp> <b>Smile and Code It!</b></samp>
     <br />
@@ -114,3 +114,4 @@ export default Profile;
     <img alt="Coding"
         src="https://www.webtekno.com/images/editor/default/0003/05/ab63de71eec07ded53792daa640a04ed4acb1039.jpeg" />
 </div>
+
