@@ -5,7 +5,7 @@
         width="180px" />
     <br />
     <br />
-    <samp> <i> I'm K. Anıl from Turkey </i> </samp> <br />
+    <samp> <i> I'm Mücahit from Turkey </i> </samp> <br />
     <samp> <i> a Coder, an Enterpreneur, an Engineer. </i> </samp>
     <br />
     <samp>
@@ -27,10 +27,10 @@ import React from "react";
 
 const Profile = () => {
   return {
-      name: "Kazım Anıl Aydın",
-      nick: "kazimanilaydin",
+      name: "Mücahit Buğday",
+      nick: "mucahitbugday",
       gender: "Male",
-      hobbies: ["Coding", "Music", "Movie"],
+      hobbies: ["Coding", "Music", "Movie", "Caravan"],
   }
 };
     
