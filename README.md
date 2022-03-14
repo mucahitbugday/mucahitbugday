@@ -57,6 +57,6 @@ export default Profile;
     <br />
     <br />
     <img alt="Coding"
-        src="https://www.webtekno.com/images/editor/default/0003/05/ab63de71eec07ded53792daa640a04ed4acb1039.jpeg" />
+        src="https://media4.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b7611ae4c192f2bb4ceac826f0be1e660d69e838f0fc4&rid=giphy.gif&ct=g" />
 </div>
 
