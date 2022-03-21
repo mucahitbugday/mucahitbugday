@@ -45,8 +45,6 @@ export default Profile;
     think();
     learn();
     code();
-    riseUp();
-    doIt();
     repeat();
 })();
 ```
