@@ -10,8 +10,6 @@
     <br />
     <samp>
         <br />
-        <b>
-        <i> &lt;innovativeThings | doIt & riseUp&gt; </i>
         </b>
         <br />
     </samp>
